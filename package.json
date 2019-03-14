@@ -18,12 +18,12 @@
     "url": "git+https://github.com/virtualkur2/google-maps-marks-info.git"
   },
   "bugs": {
-    "url": "https://github.com/virtualkur2/google-maps-marks-info/issues",
+    "url": "https://github.com/virtualkur2/google-maps-marks-info/issues"
   },
   "homepage": "https://github.com/virtualkur2/google-maps-marks-info#readme",
   "license": "MIT",
   "engines": {
-    "node": "11.11.0",
+    "node": "11.11.0"
   },
   "devDependencies": {
     "electron": "^4.0.4",
