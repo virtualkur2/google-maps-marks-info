@@ -1,0 +1,24 @@
+{
+  "name": "markslist",
+  "version": "1.0.0",
+  "description": "Little Google Maps Marks List to print out.",
+  "main": "./app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "development": "nodemon"
+  },
+  "keywords": [
+    "google-maps;",
+    "google-maps-marks"
+  ],
+  "author": "Mauricio Contreras",
+  "license": "MIT",
+  "engines": {
+    "node": "11.11.0",
+  },
+  "devDependencies": {
+    "electron": "^4.0.4",
+    "nodemon": "^1.18.10"
+  }
+}
