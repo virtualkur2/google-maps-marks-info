@@ -13,6 +13,14 @@
     "google-maps-marks"
   ],
   "author": "Mauricio Contreras",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualkur2/google-maps-marks-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/virtualkur2/google-maps-marks-info/issues",
+  },
+  "homepage": "https://github.com/virtualkur2/google-maps-marks-info#readme",
   "license": "MIT",
   "engines": {
     "node": "11.11.0",
